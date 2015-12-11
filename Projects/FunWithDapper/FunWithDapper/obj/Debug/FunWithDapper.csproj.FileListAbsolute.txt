@@ -1,0 +1,9 @@
+c:\users\apprentice\documents\visual studio 2015\Projects\FunWithDapper\FunWithDapper\bin\Debug\FunWithDapper.exe.config
+c:\users\apprentice\documents\visual studio 2015\Projects\FunWithDapper\FunWithDapper\bin\Debug\FunWithDapper.exe
+c:\users\apprentice\documents\visual studio 2015\Projects\FunWithDapper\FunWithDapper\bin\Debug\FunWithDapper.pdb
+c:\users\apprentice\documents\visual studio 2015\Projects\FunWithDapper\FunWithDapper\bin\Debug\Dapper.dll
+c:\users\apprentice\documents\visual studio 2015\Projects\FunWithDapper\FunWithDapper\bin\Debug\Dapper.pdb
+c:\users\apprentice\documents\visual studio 2015\Projects\FunWithDapper\FunWithDapper\bin\Debug\Dapper.xml
+c:\users\apprentice\documents\visual studio 2015\Projects\FunWithDapper\FunWithDapper\obj\Debug\FunWithDapper.csprojResolveAssemblyReference.cache
+c:\users\apprentice\documents\visual studio 2015\Projects\FunWithDapper\FunWithDapper\obj\Debug\FunWithDapper.exe
+c:\users\apprentice\documents\visual studio 2015\Projects\FunWithDapper\FunWithDapper\obj\Debug\FunWithDapper.pdb

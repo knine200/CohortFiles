@@ -1,0 +1,20 @@
+﻿@using HResourceModel
+@using HRTestProject.Controllers
+@model List<HResourceModel.Policy>
+
+
+@{
+    ViewBag.Title = "DisplayDressList";
+}
+
+<h2>Display Policy List</h2>
+
+
+@foreach (var a in Model)
+{
+    <p>Policy Title : @Html.ActionLink(@a.Title, "ViewDressPolicy", "Home", new {id = a.PolicyNo}, null) @using (Html.BeginForm("DeletePolicy", "Home", FormMethod.Post))
+    {
+        @Html.Hidden("id", a.PolicyNo)
+        <button>Delete</button>
+    }</p>
+}

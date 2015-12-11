@@ -1,0 +1,13 @@
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\ContactsV2\Contacts.Tests\bin\Debug\DataFiles\contacts.txt
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\ContactsV2\Contacts.Tests\bin\Debug\Contacts.Tests.dll.config
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\ContactsV2\Contacts.Tests\bin\Debug\Contacts.Tests.dll
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\ContactsV2\Contacts.Tests\bin\Debug\Contacts.Tests.pdb
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\ContactsV2\Contacts.Tests\bin\Debug\Contacts.Data.dll
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\ContactsV2\Contacts.Tests\bin\Debug\Contacts.Models.dll
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\ContactsV2\Contacts.Tests\bin\Debug\nunit.framework.dll
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\ContactsV2\Contacts.Tests\bin\Debug\Contacts.Data.pdb
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\ContactsV2\Contacts.Tests\bin\Debug\Contacts.Models.pdb
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\ContactsV2\Contacts.Tests\bin\Debug\nunit.framework.xml
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\ContactsV2\Contacts.Tests\obj\Debug\Contacts.Tests.csprojResolveAssemblyReference.cache
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\ContactsV2\Contacts.Tests\obj\Debug\Contacts.Tests.dll
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\ContactsV2\Contacts.Tests\obj\Debug\Contacts.Tests.pdb

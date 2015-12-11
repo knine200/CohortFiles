@@ -1,0 +1,6 @@
+c:\users\apprentice\documents\visual studio 2015\Projects\InterviewExercises\InterviewExercises\bin\Debug\InterviewExercises.exe.config
+c:\users\apprentice\documents\visual studio 2015\Projects\InterviewExercises\InterviewExercises\bin\Debug\InterviewExercises.exe
+c:\users\apprentice\documents\visual studio 2015\Projects\InterviewExercises\InterviewExercises\bin\Debug\InterviewExercises.pdb
+c:\users\apprentice\documents\visual studio 2015\Projects\InterviewExercises\InterviewExercises\obj\Debug\InterviewExercises.csprojResolveAssemblyReference.cache
+c:\users\apprentice\documents\visual studio 2015\Projects\InterviewExercises\InterviewExercises\obj\Debug\InterviewExercises.exe
+c:\users\apprentice\documents\visual studio 2015\Projects\InterviewExercises\InterviewExercises\obj\Debug\InterviewExercises.pdb

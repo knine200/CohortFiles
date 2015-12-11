@@ -1,0 +1,7 @@
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\ContactsV2\Contacts.Data\bin\Debug\Contacts.Data.dll
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\ContactsV2\Contacts.Data\bin\Debug\Contacts.Data.pdb
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\ContactsV2\Contacts.Data\bin\Debug\Contacts.Models.dll
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\ContactsV2\Contacts.Data\bin\Debug\Contacts.Models.pdb
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\ContactsV2\Contacts.Data\obj\Debug\Contacts.Data.csprojResolveAssemblyReference.cache
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\ContactsV2\Contacts.Data\obj\Debug\Contacts.Data.dll
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\ContactsV2\Contacts.Data\obj\Debug\Contacts.Data.pdb

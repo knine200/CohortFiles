@@ -1,0 +1,5 @@
+c:\users\apprentice\documents\visual studio 2015\Projects\SGBank1\SGBank.Models\bin\Debug\SGBank.Models.dll
+c:\users\apprentice\documents\visual studio 2015\Projects\SGBank1\SGBank.Models\bin\Debug\SGBank.Models.pdb
+c:\users\apprentice\documents\visual studio 2015\Projects\SGBank1\SGBank.Models\obj\Debug\SGBank.Models.csprojResolveAssemblyReference.cache
+c:\users\apprentice\documents\visual studio 2015\Projects\SGBank1\SGBank.Models\obj\Debug\SGBank.Models.dll
+c:\users\apprentice\documents\visual studio 2015\Projects\SGBank1\SGBank.Models\obj\Debug\SGBank.Models.pdb

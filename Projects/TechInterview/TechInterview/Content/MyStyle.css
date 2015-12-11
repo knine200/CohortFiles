@@ -1,0 +1,24 @@
+﻿body {
+}
+
+#newid {
+    border: solid;
+    padding-left: 50px;
+    padding-top: 50px;
+    text-align: center;
+    font-size: 50px;
+    font-family: "Times New Roman";
+}
+
+
+#newP {
+
+    color: blue;
+    font-size: 50px;
+    font-family: "Times New Roman";
+    border: solid;
+    padding-left: 50px;
+    padding-top: 50px;
+    text-align: center;
+}
+

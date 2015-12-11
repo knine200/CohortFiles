@@ -1,0 +1,25 @@
+﻿@model HResourceModel.Resume
+
+@{
+    ViewBag.Title = "Result";
+}
+
+<h2>Result</h2>
+
+@Html.ValidationSummary()
+
+<p>Resume ID: @Model.Id</p>
+<p>Name: @Model.Name</p>
+<p>Phone Number: @Model.PhoneNumber</p>
+<p>Email: @Model.Email</p>
+<p>Address: @Model.Address</p>
+<p>Position: @Model.Position</p>
+<p>Background: @Model.Background</p>
+<p>Education: @Model.Education</p>
+<p>Desired Salary: @Model.DesiredSalary</p>
+<p>Date of Application: @Model.DateOfApplication</p>
+
+<h3>@Html.ActionLink("Back to Apply", "Apply", "Home")</h3>
+
+
+

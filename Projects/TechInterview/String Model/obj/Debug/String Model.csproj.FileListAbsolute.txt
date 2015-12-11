@@ -1,0 +1,4 @@
+c:\users\apprentice\documents\visual studio 2015\Projects\TechInterview\String Model\bin\Debug\String Model.dll
+c:\users\apprentice\documents\visual studio 2015\Projects\TechInterview\String Model\bin\Debug\String Model.pdb
+c:\users\apprentice\documents\visual studio 2015\Projects\TechInterview\String Model\obj\Debug\String Model.dll
+c:\users\apprentice\documents\visual studio 2015\Projects\TechInterview\String Model\obj\Debug\String Model.pdb

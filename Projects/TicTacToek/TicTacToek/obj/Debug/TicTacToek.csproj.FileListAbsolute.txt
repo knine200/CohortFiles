@@ -1,0 +1,6 @@
+c:\users\apprentice\documents\visual studio 2015\Projects\TicTacToek\TicTacToek\bin\Debug\TicTacToek.exe.config
+c:\users\apprentice\documents\visual studio 2015\Projects\TicTacToek\TicTacToek\bin\Debug\TicTacToek.exe
+c:\users\apprentice\documents\visual studio 2015\Projects\TicTacToek\TicTacToek\bin\Debug\TicTacToek.pdb
+c:\users\apprentice\documents\visual studio 2015\Projects\TicTacToek\TicTacToek\obj\Debug\TicTacToek.csprojResolveAssemblyReference.cache
+c:\users\apprentice\documents\visual studio 2015\Projects\TicTacToek\TicTacToek\obj\Debug\TicTacToek.exe
+c:\users\apprentice\documents\visual studio 2015\Projects\TicTacToek\TicTacToek\obj\Debug\TicTacToek.pdb

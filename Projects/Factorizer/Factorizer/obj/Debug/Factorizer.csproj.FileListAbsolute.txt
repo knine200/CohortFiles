@@ -1,0 +1,6 @@
+c:\users\apprentice\documents\visual studio 2015\Projects\Factorizer\Factorizer\bin\Debug\Factorizer.exe.config
+c:\users\apprentice\documents\visual studio 2015\Projects\Factorizer\Factorizer\bin\Debug\Factorizer.exe
+c:\users\apprentice\documents\visual studio 2015\Projects\Factorizer\Factorizer\bin\Debug\Factorizer.pdb
+c:\users\apprentice\documents\visual studio 2015\Projects\Factorizer\Factorizer\obj\Debug\Factorizer.csprojResolveAssemblyReference.cache
+c:\users\apprentice\documents\visual studio 2015\Projects\Factorizer\Factorizer\obj\Debug\Factorizer.exe
+c:\users\apprentice\documents\visual studio 2015\Projects\Factorizer\Factorizer\obj\Debug\Factorizer.pdb

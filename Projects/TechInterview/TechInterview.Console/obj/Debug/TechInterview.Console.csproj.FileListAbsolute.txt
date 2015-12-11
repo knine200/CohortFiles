@@ -1,0 +1,7 @@
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\TechInterview\TechInterview.Console\bin\Debug\TechInterview.Console.exe.config
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\TechInterview\TechInterview.Console\bin\Debug\TechInterview.Console.exe
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\TechInterview\TechInterview.Console\bin\Debug\TechInterview.Console.pdb
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\TechInterview\TechInterview.Console\obj\Debug\TechInterview.Console.exe
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\TechInterview\TechInterview.Console\obj\Debug\TechInterview.Console.pdb
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\TechInterview\TechInterview.Console\bin\Debug\statement.txt
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\TechInterview\TechInterview.Console\obj\Debug\TechInterview.Console.csprojResolveAssemblyReference.cache

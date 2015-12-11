@@ -1,0 +1,6 @@
+c:\users\apprentice\documents\visual studio 2015\Projects\FunWithStrings\FunWithStrings\bin\Debug\FunWithStrings.exe.config
+c:\users\apprentice\documents\visual studio 2015\Projects\FunWithStrings\FunWithStrings\obj\Debug\FunWithStrings.csprojResolveAssemblyReference.cache
+c:\users\apprentice\documents\visual studio 2015\Projects\FunWithStrings\FunWithStrings\bin\Debug\FunWithStrings.exe
+c:\users\apprentice\documents\visual studio 2015\Projects\FunWithStrings\FunWithStrings\bin\Debug\FunWithStrings.pdb
+c:\users\apprentice\documents\visual studio 2015\Projects\FunWithStrings\FunWithStrings\obj\Debug\FunWithStrings.exe
+c:\users\apprentice\documents\visual studio 2015\Projects\FunWithStrings\FunWithStrings\obj\Debug\FunWithStrings.pdb

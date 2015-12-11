@@ -1,0 +1,9 @@
+C:\Users\Apprentice\documents\visual studio 2015\Projects\StringCalculatorKata\StringCalculatorKataTest\bin\Debug\StringCalculatorKataTest.dll
+C:\Users\Apprentice\documents\visual studio 2015\Projects\StringCalculatorKata\StringCalculatorKataTest\bin\Debug\StringCalculatorKataTest.pdb
+C:\Users\Apprentice\documents\visual studio 2015\Projects\StringCalculatorKata\StringCalculatorKataTest\bin\Debug\nunit.framework.dll
+C:\Users\Apprentice\documents\visual studio 2015\Projects\StringCalculatorKata\StringCalculatorKataTest\bin\Debug\StringCalculatorKata.dll
+C:\Users\Apprentice\documents\visual studio 2015\Projects\StringCalculatorKata\StringCalculatorKataTest\bin\Debug\StringCalculatorKata.pdb
+C:\Users\Apprentice\documents\visual studio 2015\Projects\StringCalculatorKata\StringCalculatorKataTest\bin\Debug\nunit.framework.xml
+C:\Users\Apprentice\documents\visual studio 2015\Projects\StringCalculatorKata\StringCalculatorKataTest\obj\Debug\StringCalculatorKataTest.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\documents\visual studio 2015\Projects\StringCalculatorKata\StringCalculatorKataTest\obj\Debug\StringCalculatorKataTest.dll
+C:\Users\Apprentice\documents\visual studio 2015\Projects\StringCalculatorKata\StringCalculatorKataTest\obj\Debug\StringCalculatorKataTest.pdb

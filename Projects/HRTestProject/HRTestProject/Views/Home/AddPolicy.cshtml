@@ -1,0 +1,39 @@
+﻿@model HResourceModel.Policy
+
+@{
+    ViewBag.Title = "AddPolicy";
+}
+
+<h2>Add Policy</h2>
+
+@using (Html.BeginForm("AddPolicy", "Home", FormMethod.Post))
+{
+    <input type="hidden" name="PolicyNo" id="PolicyNo" value="@Model.PolicyNo" />
+
+    <div class="form-group">
+        <label>Category</label>
+      
+            @Html.TextBoxFor(m => m.CategoryType.CategoryType, new { @class = "form-control" })
+    
+    </div>
+        
+    <div class="form-group">
+        <label>Title</label>
+        @*<input type="text" name="PhoneNumber" class="form-control" />*@
+        @Html.TextBoxFor(m => m.Title, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        <label>Content</label>
+        @*<input type="text" name="Email" class="form-control" />*@
+        @Html.TextAreaFor(m => m.Content, new {@class = "form-control"})
+    </div>
+
+
+
+        <button class="btn btn-primary">Add</button>
+
+
+        }
+
+
+

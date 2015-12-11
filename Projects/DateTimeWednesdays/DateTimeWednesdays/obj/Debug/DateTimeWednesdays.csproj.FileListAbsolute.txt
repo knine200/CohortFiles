@@ -1,0 +1,6 @@
+c:\users\apprentice\documents\visual studio 2015\Projects\DateTimeWednesdays\DateTimeWednesdays\bin\Debug\DateTimeWednesdays.exe.config
+c:\users\apprentice\documents\visual studio 2015\Projects\DateTimeWednesdays\DateTimeWednesdays\bin\Debug\DateTimeWednesdays.exe
+c:\users\apprentice\documents\visual studio 2015\Projects\DateTimeWednesdays\DateTimeWednesdays\bin\Debug\DateTimeWednesdays.pdb
+c:\users\apprentice\documents\visual studio 2015\Projects\DateTimeWednesdays\DateTimeWednesdays\obj\Debug\DateTimeWednesdays.csprojResolveAssemblyReference.cache
+c:\users\apprentice\documents\visual studio 2015\Projects\DateTimeWednesdays\DateTimeWednesdays\obj\Debug\DateTimeWednesdays.exe
+c:\users\apprentice\documents\visual studio 2015\Projects\DateTimeWednesdays\DateTimeWednesdays\obj\Debug\DateTimeWednesdays.pdb

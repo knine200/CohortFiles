@@ -1,0 +1,6 @@
+c:\users\apprentice\documents\visual studio 2015\Projects\FunWithArrays\FunWithArrays\bin\Debug\FunWithArrays.exe.config
+c:\users\apprentice\documents\visual studio 2015\Projects\FunWithArrays\FunWithArrays\bin\Debug\FunWithArrays.exe
+c:\users\apprentice\documents\visual studio 2015\Projects\FunWithArrays\FunWithArrays\bin\Debug\FunWithArrays.pdb
+c:\users\apprentice\documents\visual studio 2015\Projects\FunWithArrays\FunWithArrays\obj\Debug\FunWithArrays.csprojResolveAssemblyReference.cache
+c:\users\apprentice\documents\visual studio 2015\Projects\FunWithArrays\FunWithArrays\obj\Debug\FunWithArrays.exe
+c:\users\apprentice\documents\visual studio 2015\Projects\FunWithArrays\FunWithArrays\obj\Debug\FunWithArrays.pdb

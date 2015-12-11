@@ -1,0 +1,74 @@
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\Contacts\Contacts.UI\bin\roslyn\csc.exe
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\Contacts\Contacts.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\Contacts\Contacts.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\Contacts\Contacts.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\Contacts\Contacts.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\Contacts\Contacts.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\Contacts\Contacts.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\Contacts\Contacts.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\Contacts\Contacts.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\Contacts\Contacts.UI\bin\roslyn\vbc.exe
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\Contacts\Contacts.UI\bin\roslyn\VBCSCompiler.exe
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\Contacts\Contacts.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\Contacts\Contacts.UI\bin\Contacts.UI.dll.config
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\Contacts\Contacts.UI\bin\Contacts.UI.dll
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\Contacts\Contacts.UI\bin\Contacts.UI.pdb
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\Contacts\Contacts.UI\bin\Contacts.Data.dll
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\Contacts\Contacts.UI\bin\Contacts.Models.dll
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\Contacts\Contacts.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\Contacts\Contacts.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\Contacts\Contacts.UI\bin\System.Web.Helpers.dll
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\Contacts\Contacts.UI\bin\System.Web.Mvc.dll
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\Contacts\Contacts.UI\bin\System.Web.Razor.dll
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\Contacts\Contacts.UI\bin\System.Web.Webpages.Deployment.dll
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\Contacts\Contacts.UI\bin\System.Web.Webpages.dll
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\Contacts\Contacts.UI\bin\System.Web.Webpages.Razor.dll
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\Contacts\Contacts.UI\bin\Contacts.Data.pdb
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\Contacts\Contacts.UI\bin\Contacts.Models.pdb
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\Contacts\Contacts.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\Contacts\Contacts.UI\bin\System.Web.Razor.xml
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\Contacts\Contacts.UI\bin\System.Web.Webpages.xml
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\Contacts\Contacts.UI\bin\System.Web.Webpages.Deployment.xml
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\Contacts\Contacts.UI\bin\System.Web.Webpages.Razor.xml
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\Contacts\Contacts.UI\bin\System.Web.Helpers.xml
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\Contacts\Contacts.UI\bin\System.Web.Mvc.xml
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\Contacts\Contacts.UI\obj\Debug\Contacts.UI.csprojResolveAssemblyReference.cache
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\Contacts\Contacts.UI\obj\Debug\Contacts.UI.dll
+C:\_repos\UpdatedSept2015-Materials\September2015-DotNetAkron-Materials\Code_Alongs\Contacts\Contacts.UI\obj\Debug\Contacts.UI.pdb
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\Contacts\Contacts.UI\bin\roslyn\csc.exe
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\Contacts\Contacts.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\Contacts\Contacts.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\Contacts\Contacts.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\Contacts\Contacts.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\Contacts\Contacts.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\Contacts\Contacts.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\Contacts\Contacts.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\Contacts\Contacts.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\Contacts\Contacts.UI\bin\roslyn\vbc.exe
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\Contacts\Contacts.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\Contacts\Contacts.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\Contacts\Contacts.UI\bin\Contacts.UI.dll.config
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\Contacts\Contacts.UI\bin\Contacts.UI.dll
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\Contacts\Contacts.UI\bin\Contacts.UI.pdb
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\Contacts\Contacts.UI\bin\Contacts.Data.dll
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\Contacts\Contacts.UI\bin\Contacts.Models.dll
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\Contacts\Contacts.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\Contacts\Contacts.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\Contacts\Contacts.UI\bin\System.Web.Helpers.dll
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\Contacts\Contacts.UI\bin\System.Web.Mvc.dll
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\Contacts\Contacts.UI\bin\System.Web.Razor.dll
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\Contacts\Contacts.UI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\Contacts\Contacts.UI\bin\System.Web.Webpages.dll
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\Contacts\Contacts.UI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\Contacts\Contacts.UI\bin\Contacts.Data.pdb
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\Contacts\Contacts.UI\bin\Contacts.Models.pdb
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\Contacts\Contacts.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\Contacts\Contacts.UI\bin\System.Web.Razor.xml
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\Contacts\Contacts.UI\bin\System.Web.Webpages.xml
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\Contacts\Contacts.UI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\Contacts\Contacts.UI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\Contacts\Contacts.UI\bin\System.Web.Helpers.xml
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\Contacts\Contacts.UI\bin\System.Web.Mvc.xml
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\Contacts\Contacts.UI\obj\Debug\Contacts.UI.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\Contacts\Contacts.UI\obj\Debug\Contacts.UI.dll
+C:\Users\Apprentice\Documents\Visual Studio 2015\Projects\Contacts\Contacts.UI\obj\Debug\Contacts.UI.pdb

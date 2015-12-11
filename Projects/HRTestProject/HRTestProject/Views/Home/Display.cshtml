@@ -1,0 +1,70 @@
+﻿@using HResourceModel
+@model List<HResourceModel.Resume>
+@{
+    ViewBag.Title = "Display";
+}
+
+<h2>Display</h2>
+
+<table class="table table-bordered">
+    <thead>
+    <tr>
+        <th>Name</th>
+        <th>PhoneNumber</th>
+        <th>Email</th>
+        <th>Address</th>
+        <th>Position</th>
+        <th>Background</th>
+        <th>Education</th>
+        <th>Desired Salary</th>
+        <th>Date of Application</th>
+
+
+
+    </tr>
+    </thead>
+    <tbody>
+
+    @foreach (var p in Model)
+    {
+        <tr>
+            <td>@p.Name</td>
+            <td>@p.PhoneNumber</td>
+
+            <td>@p.Email</td>
+
+            <td>@p.Address</td>
+
+            <td>@p.Position</td>
+
+            <td>@p.Background</td>
+
+            <td>@p.Education</td>
+            <td>@p.DesiredSalary</td>
+
+            <td>@p.DateOfApplication</td>
+
+
+        @*<p>Phone Number: @p.PhoneNumber</p>
+        <p>Email: @p.Email</p>
+        <p>Address: @p.Address</p>
+        <p>Position: @p.Position</p>
+        <p>Background: @p.Background</p>
+        <p>Education: @p.Education</p>
+        <p>Desired Salary: @p.DesiredSalary</p>
+        <p>Date of Application: @p.DateOfApplication</p>*@
+
+            </tr>
+
+    }
+
+    </tbody>
+</table>
+
+
+
+<h3>@Html.ActionLink("Back to Home", "Index", "Home")</h3>
+
+
+
+

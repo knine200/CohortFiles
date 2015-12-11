@@ -1,0 +1,14 @@
+﻿@model HResourceModel.Policy
+
+@{
+    ViewBag.Title = "Result2";
+}
+
+<h2>Result2</h2>
+
+<p>Category: @Model.CategoryType.CategoryType</p>
+<p>Title: @Model.Title</p>
+<p>Content: @Model.Content</p>
+
+<h3>@Html.ActionLink("Back to Manage Policy", "ManagePolicies", "Home")</h3>
+

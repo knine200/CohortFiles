@@ -1,0 +1,5 @@
+PolicyNo,Category,Title,Content
+1℗Dress℗Shoes℗No flip flops on Tuesdays.     
+2℗Absences℗Death℗You must be dead to call out.     
+4℗Absences℗Pregnancy℗Too Bad. 
+5℗Vacation℗Number of Days℗You get 360 days off.

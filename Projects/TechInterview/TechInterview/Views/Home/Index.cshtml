@@ -1,0 +1,49 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<h3> Browser Problem </h3>
+
+<div id="mydiv">
+
+
+</div>
+
+
+
+
+
+<script>
+    var text = "";
+
+    for (var i = 1; i <= 300; i++) {
+
+        if (i % 5 == 0) {
+            text += "<p id='newP'> Hello, CoverMyMeds.</p>";
+        } else {
+            text += "<p id='newid'> Hello, World. <p>";
+        }       
+    }
+    document.getElementById("mydiv").innerHTML = text;
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@section scripts
+{
+    <script type="text/javascript" src="~/Scripts/MYJavaScript.js"></script>
+}
+

@@ -1,0 +1,25 @@
+c:\users\apprentice\documents\visual studio 2015\Projects\HRTestProject\HResourceModel\bin\Debug\HResourceModel.dll
+c:\users\apprentice\documents\visual studio 2015\Projects\HRTestProject\HResourceModel\bin\Debug\HResourceModel.pdb
+c:\users\apprentice\documents\visual studio 2015\Projects\HRTestProject\HResourceModel\obj\Debug\HResourceModel.csprojResolveAssemblyReference.cache
+c:\users\apprentice\documents\visual studio 2015\Projects\HRTestProject\HResourceModel\obj\Debug\HResourceModel.dll
+c:\users\apprentice\documents\visual studio 2015\Projects\HRTestProject\HResourceModel\obj\Debug\HResourceModel.pdb
+C:\_repos\HRPortal\hrportal\HRTestProject\HResourceModel\bin\Debug\HResourceModel.dll
+C:\_repos\HRPortal\hrportal\HRTestProject\HResourceModel\bin\Debug\HResourceModel.pdb
+C:\_repos\HRPortal\hrportal\HRTestProject\HResourceModel\obj\Debug\HResourceModel.csprojResolveAssemblyReference.cache
+C:\_repos\HRPortal\hrportal\HRTestProject\HResourceModel\obj\Debug\HResourceModel.dll
+C:\_repos\HRPortal\hrportal\HRTestProject\HResourceModel\obj\Debug\HResourceModel.pdb
+C:\_repos\HRPortal1\hrportal\HRTestProject\HResourceModel\bin\Debug\HResourceModel.dll
+C:\_repos\HRPortal1\hrportal\HRTestProject\HResourceModel\bin\Debug\HResourceModel.pdb
+C:\_repos\HRPortal1\hrportal\HRTestProject\HResourceModel\obj\Debug\HResourceModel.csprojResolveAssemblyReference.cache
+C:\_repos\HRPortal1\hrportal\HRTestProject\HResourceModel\obj\Debug\HResourceModel.dll
+C:\_repos\HRPortal1\hrportal\HRTestProject\HResourceModel\obj\Debug\HResourceModel.pdb
+C:\_repos\HRPortal2\hrportal\HRTestProject\HResourceModel\bin\Debug\HResourceModel.dll
+C:\_repos\HRPortal2\hrportal\HRTestProject\HResourceModel\bin\Debug\HResourceModel.pdb
+C:\_repos\HRPortal2\hrportal\HRTestProject\HResourceModel\obj\Debug\HResourceModel.csprojResolveAssemblyReference.cache
+C:\_repos\HRPortal2\hrportal\HRTestProject\HResourceModel\obj\Debug\HResourceModel.dll
+C:\_repos\HRPortal2\hrportal\HRTestProject\HResourceModel\obj\Debug\HResourceModel.pdb
+C:\_repos\HRPortal3\hrportal\HRTestProject\HResourceModel\bin\Debug\HResourceModel.dll
+C:\_repos\HRPortal3\hrportal\HRTestProject\HResourceModel\bin\Debug\HResourceModel.pdb
+C:\_repos\HRPortal3\hrportal\HRTestProject\HResourceModel\obj\Debug\HResourceModel.csprojResolveAssemblyReference.cache
+C:\_repos\HRPortal3\hrportal\HRTestProject\HResourceModel\obj\Debug\HResourceModel.dll
+C:\_repos\HRPortal3\hrportal\HRTestProject\HResourceModel\obj\Debug\HResourceModel.pdb

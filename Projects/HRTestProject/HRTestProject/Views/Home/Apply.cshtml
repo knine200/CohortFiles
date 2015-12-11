@@ -1,0 +1,56 @@
+﻿@model HResourceModel.Resume
+@{
+    ViewBag.Title = "Apply";
+}
+
+<h2>Apply</h2>
+
+@using (Html.BeginForm("Apply", "Home", FormMethod.Post))
+{
+    @*<input type="hidden" name="ID" id="ID" value="@Model.ID" />*@
+
+    <div class="form-group">
+        <label>Name</label>
+        @*<input type="text" name="Name" class="form-control" />*@
+        
+        @Html.TextBoxFor(m => m.Name, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        <label>Phone Number</label>
+        @*<input type="text" name="PhoneNumber" class="form-control" />*@
+        @Html.TextBoxFor(m => m.PhoneNumber, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        <label>Email</label>
+        @*<input type="text" name="Email" class="form-control" />*@
+        @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        <label>Address</label>
+        @Html.TextAreaFor(m => m.Address, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        <label>Position</label>
+        @Html.TextBoxFor(m => m.Position, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        <label>Background</label>
+        @Html.TextAreaFor(m => m.Background, new {@class = "form-control"})
+    </div>
+    <div class="form-group">
+        <label>Education</label>
+        @Html.TextAreaFor(m => m.Education, new {@class = "form-control"})
+    </div>
+    <div class="form-group">
+        <label>Desired Salary</label>
+        @Html.TextBoxFor(m => m.DesiredSalary, new {@class = "form-control"})
+    </div>
+    <div class="form-group">
+        <label>Date of Application</label>
+        @Html.TextBoxFor(m => m.DateOfApplication, new {type ="date"})
+    </div>
+
+    <button class="btn btn-primary">Apply</button>
+
+   
+}

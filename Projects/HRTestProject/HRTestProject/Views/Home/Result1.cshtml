@@ -1,0 +1,27 @@
+﻿
+@using HResourceModel
+@model List<HResourceModel.Resume>
+@{
+    ViewBag.Title = "Result1";
+}
+
+<h2>Display</h2>
+
+
+@foreach (var p in Model)
+{
+
+    <p>Name:@p.Name</p>
+        <p>Phone Number: @p.PhoneNumber</p>
+        <p>Email: @p.Email</p>
+        <p>Address: @p.Address</p>
+        <p>Position: @p.Position</p>
+        <p>Background: @p.Background</p>
+        <p>Education: @p.Education</p>
+        <p>Desired Salary: @p.DesiredSalary</p>
+    <p>Date of Application: @p.DateOfApplication</p>
+
+   
+}
+<h3>@Html.ActionLink("Back to Home", "Index", "Home")</h3>
+

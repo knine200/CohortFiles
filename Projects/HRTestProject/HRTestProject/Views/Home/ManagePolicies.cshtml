@@ -1,0 +1,18 @@
+﻿@model SelectList
+@{
+    ViewBag.Title = "ManagePolicies";
+}
+
+<h2>Manage Policies</h2>
+
+<h3>@Html.ActionLink("Add new Policy", "AddPolicy", "Home")</h3>
+
+@using (Html.BeginForm("DisplayDressList", "Home", FormMethod.Get))
+{
+@Html.DropDownList("Category", Model)
+<button>View</button>
+}
+
+
+
+
