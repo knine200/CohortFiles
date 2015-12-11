@@ -1,0 +1,51 @@
+﻿@model List<CarDealership.Models.Car>
+@{
+    ViewBag.Title = "Display";
+}
+
+<h2>Inventory</h2>
+
+<div class="row" ng-app ng-init="cars = [
+             @foreach (var car in Model)
+             {
+                <text>{CarId: '@car.CarId', Year: '@car.Year.Year', Make: '@car.Make', Model: '@car.Model', Price: '@car.Price' },</text>
+             }
+     ]">
+    <table class="table table-striped">
+        <thead>
+        <tr>
+            <th>Year</th>
+            <th>Make</th>
+            <th>Model</th>
+            <th>Price</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th><input type="text" ng-model="carFilter.Year"/></th>
+            <th><input type="text" ng-model="carFilter.Make"/></th>
+            <th><input type="text" ng-model="carFilter.Model"/></th>
+            <th><input type="text" ng-model="carFilter.Price"/></th>
+            <th></th>
+        </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="car in cars | filter:carFilter">
+                <td>{{car.Year}}</td>
+                <td>{{car.Make}}</td>
+                <td>{{car.Model}}</td>
+                <td>{{car.Price}}</td>
+                <td>@{
+                        var url = Url.Action("Details", "Inventory", new {id = "{{car.CarId}}"});
+                        url = HttpUtility.UrlDecode(url);
+                    }
+                    <a href="@url" class="btn btn-primary">Details</a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+@section scripts
+{
+    <script src="~/Scripts/angular.min.js"></script>
+}

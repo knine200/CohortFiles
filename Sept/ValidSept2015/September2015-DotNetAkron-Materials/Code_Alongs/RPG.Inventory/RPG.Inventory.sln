@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPG.Inventory", "RPG.Inventory\RPG.Inventory.csproj", "{B744ADE1-54D8-4894-9EF4-401BFE79925B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPG.Inventory.Tests", "RPG.Inventory.Tests\RPG.Inventory.Tests.csproj", "{12BCD20D-108F-494D-9DE3-64094A2AEA5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B744ADE1-54D8-4894-9EF4-401BFE79925B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B744ADE1-54D8-4894-9EF4-401BFE79925B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B744ADE1-54D8-4894-9EF4-401BFE79925B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B744ADE1-54D8-4894-9EF4-401BFE79925B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12BCD20D-108F-494D-9DE3-64094A2AEA5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12BCD20D-108F-494D-9DE3-64094A2AEA5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12BCD20D-108F-494D-9DE3-64094A2AEA5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12BCD20D-108F-494D-9DE3-64094A2AEA5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

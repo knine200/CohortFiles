@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@if (Request.IsAuthenticated)
+{
+    <p>@Html.Label("Hello " + User.Identity.Name)</p>
+    using (Html.BeginForm("LogOut", "Account", FormMethod.Post, new {@class = "form-horizontal"}))
+    {
+        <button class="btn btn-danger">Logout</button>
+    }
+}
+else
+{
+    <p>No User Authenticated!</p>
+}

@@ -1,0 +1,16 @@
+﻿@model ViewModels.Models.AddressToAddVM
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Address</h2>
+
+@using (Html.BeginForm("AddAddress", "Home", FormMethod.Post))
+{
+    <p>City: @Html.TextBoxFor(m => m.address.City)</p>
+    <p>State: @Html.DropDownListFor(m=>m.address.State, Model.states)</p>
+    <p>Zipcode: @Html.TextBoxFor(m => m.address.Zipcode)</p>
+
+    <button>Submit</button>
+}

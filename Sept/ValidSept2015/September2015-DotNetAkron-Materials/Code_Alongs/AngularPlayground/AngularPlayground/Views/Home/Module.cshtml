@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewBag.Title = "Module";
+}
+
+<h2>Module</h2>
+
+<div class="row" ng-app="demoApp">
+    <div class="col-sm-4" ng-controller="SimpleController">
+        <ul>
+            <li ng-repeat="player in players">
+                {{player.name}} - {{player.city}}
+            </li>
+        </ul>
+    </div>
+    <div class="col-sm-4" ng-controller="FriendsController">
+        <table class="table table-striped">
+            <tr ng-repeat="friend in friends">
+                <td>{{friend.name}}</td>
+                <td>{{friend.phone}}</td>
+                <td>{{friend.age}}</td>
+            </tr>
+        </table>
+    </div>
+</div>
+
+@section Scripts
+{
+    <script type="text/javascript" src="~/Scripts/app/module.js"></script>
+}

@@ -1,0 +1,29 @@
+﻿@model ReviewForIdentity.EmptyTemplate.Models.AppUser
+@{
+    ViewBag.Title = "Register";
+}
+
+<h2>Register</h2>
+
+@using (Html.BeginForm("Register", "Account", FormMethod.Post, new { @class = "form-horizontal" }))
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.UserName, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(m => m.UserName, new { @class = "form-control" })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.EmailAddress, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(m => m.EmailAddress, new { @class = "form-control" })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Password, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(m => m.Password, new { @class = "form-control" })
+        </div>
+    </div>
+    <button class="btn btn-default">Register</button>
+}

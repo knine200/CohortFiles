@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<div>
+    <h1>JSON</h1>
+    <table>
+        <tr>
+            <td class="col2">
+                <textarea id="jsonIN">
+{
+    "title": "Ghostbusters",
+    "year": "1985",
+    "rating": "PG"
+}
+                </textarea>
+            </td>
+            <td class="col2">
+                <div id="jsonOUT" class="result"></div></td>
+        </tr>
+        <tr>
+            <td span="2"><button id="btnjson">Copy</button></td>
+        </tr>
+    </table>
+</div>
+<div>
+    <input type="text" id="selectorInput" value="h1"/>
+    <button id="btnSelector">Highlight Blue</button>
+</div>
+
+@section scripts{
+    <script type="text/javascript" src="~/Scripts/script.js"></script>
+}

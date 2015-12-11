@@ -1,0 +1,12 @@
+﻿@model List<ViewOrganization.UI.Models.Player>
+
+@{
+    ViewBag.Title = "Roster";
+}
+
+<h2>Roster</h2>
+
+@foreach (var player in Model)
+{
+    @Html.Partial("_Player", player)
+}

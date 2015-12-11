@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "CustomDirective";
+}
+
+<h2>CustomDirective</h2>
+
+<div ng-app="StarRating">
+    <div ng-star-rating rating="movieRating" onclick="ratingClick(starValue)"></div>
+</div>
+
+@section Scripts
+{
+    <script src="~/Scripts/app/customdirective.js"></script>
+}
